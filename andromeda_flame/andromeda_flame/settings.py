@@ -21,6 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-d#=5x*@##xws&#%&x_lx69i(!phq&$zx-$i8&#g#ou09e56#2j'
+WSGI_APPLICATION = 'andromeda_flame.wsgi.application'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -68,7 +69,6 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'andromeda_flame.wsgi.application'
 
 
 # Database
