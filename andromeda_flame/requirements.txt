@@ -1,3 +1,9 @@
+pip freeze > requirements.txt
+
+Django==1.9.8dj-static==0.0.6gunicorn==19.6.0Unipath==1.0python-decouple==3Pillow==3.3.0
+
+
+
 altair==5.1.1
 asgiref==3.7.2
 attrs==23.1.0
@@ -87,7 +93,7 @@ Pyrebase==3.0.27
 Pyrebase4==4.7.1
 PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
 pyspc==0.4
-python-dateutil==2.8.2
+python-dateutil==2.8.2  
 python-jwt==2.0.1
 pytz==2023.3.post1
 pytz-deprecation-shim==0.1.0.post0
