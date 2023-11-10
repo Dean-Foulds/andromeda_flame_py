@@ -3,7 +3,7 @@ asgiref==3.7.2
 attrs==23.1.0
 bcrypt==4.0.1
 blinker==1.6.2
-boltons @ file:///work/ci_py311/boltons_1677685195580/work
+# boltons @ file:///work/ci_py311/boltons_1677685195580/work
 brotlipy==0.7.0
 CacheControl==0.13.1
 cachetools==5.3.1
