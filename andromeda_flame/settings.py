@@ -83,7 +83,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'flame',
         'USER': 'dean',
-        'PASSWORD': 'password',
+        'PASSWORD': '1234',
     }}
 
 db_from_env = dj_database_url.config(conn_max_age=600)
@@ -124,6 +124,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 
 STATIC_URL = "static/"
+
+STATIC_ROOT = os.path.join('andromeda_flame', 'staticfiles')
+STATIC_URL = '/static/'    
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
