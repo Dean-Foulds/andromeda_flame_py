@@ -11,35 +11,31 @@ certifi==2023.7.22
 # cffi @ file:///work/ci_py311/cffi_1676822533496/work
 charset-normalizer==2.1.1
 click==8.1.7
-# conda @ file:///croot/conda_1689269889729/work
-conda-content-trust @ file:///work/ci_py311/conda-content-trust_1676851327497/work
-conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1685032319139/work/src
-conda-package-handling @ file:///croot/conda-package-handling_1685024767917/work
-conda_package_streaming @ file:///croot/conda-package-streaming_1685019673878/work
+
 contourpy==1.1.1
 cryptography @ file:///croot/cryptography_1686613057838/work
 cycler==0.11.0
 dj-database-url==2.1.0
 Django==4.2.6
 extra-streamlit-components==0.1.60
-firebase==4.0.1
-firebase-admin==6.2.0
+# firebase==4.0.1
+# firebase-admin==6.2.0
 Flask==3.0.0
 Flask-WTF==1.2.1
 fonttools==4.42.1
 gcloud==0.18.3
 gitdb==4.0.10
 GitPython==3.1.36
-google-api-core==2.11.1
-google-api-python-client==2.103.0
-google-auth==2.23.3
-google-auth-httplib2==0.1.1
-google-cloud-core==2.3.3
-google-cloud-firestore==2.12.0
-google-cloud-storage==2.12.0
-google-crc32c==1.5.0
-google-resumable-media==2.6.0
-googleapis-common-protos==1.60.0
+# google-api-core==2.11.1
+# google-api-python-client==2.103.0
+# google-auth==2.23.3
+# google-auth-httplib2==0.1.1
+# google-cloud-core==2.3.3
+# google-cloud-firestore==2.12.0
+# google-cloud-storage==2.12.0
+# google-crc32c==1.5.0
+# google-resumable-media==2.6.0
+# googleapis-common-protos==1.60.0
 grpcio==1.58.0
 grpcio-status==1.58.0
 gunicorn==21.2.0
