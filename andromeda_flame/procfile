@@ -1,4 +1,4 @@
-web: gunicorn andromeda_flame.wsgi
+web:gunicorn andromeda_flame.wsgi
 
 
 release: python manage.py migrate
