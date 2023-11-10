@@ -8,7 +8,7 @@ brotlipy==0.7.0
 CacheControl==0.13.1
 cachetools==5.3.1
 certifi==2023.7.22
-cffi @ file:///work/ci_py311/cffi_1676822533496/work
+# cffi @ file:///work/ci_py311/cffi_1676822533496/work
 charset-normalizer==2.1.1
 click==8.1.7
 conda @ file:///croot/conda_1689269889729/work
