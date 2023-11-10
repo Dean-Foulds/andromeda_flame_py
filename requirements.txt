@@ -11,9 +11,7 @@ certifi==2023.7.22
 # cffi @ file:///work/ci_py311/cffi_1676822533496/work
 charset-normalizer==2.1.1
 click==8.1.7
-
 contourpy==1.1.1
-cryptography @ file:///croot/cryptography_1686613057838/work
 cycler==0.11.0
 dj-database-url==2.1.0
 Django==4.2.6
