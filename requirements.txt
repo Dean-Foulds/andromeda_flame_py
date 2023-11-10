@@ -11,7 +11,7 @@ certifi==2023.7.22
 # cffi @ file:///work/ci_py311/cffi_1676822533496/work
 charset-normalizer==2.1.1
 click==8.1.7
-conda @ file:///croot/conda_1689269889729/work
+# conda @ file:///croot/conda_1689269889729/work
 conda-content-trust @ file:///work/ci_py311/conda-content-trust_1676851327497/work
 conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1685032319139/work/src
 conda-package-handling @ file:///croot/conda-package-handling_1685024767917/work
